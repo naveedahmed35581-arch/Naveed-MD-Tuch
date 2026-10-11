@@ -1,0 +1,11 @@
+const assert = require('node:assert/strict');
+const settings = require('../settings');
+assert.equal(settings.botName, '𝐍𝐀𝐕𝐄𝐄𝐃 𝐓𝐔𝐂𝐇 👑');
+assert.equal(global.botName, settings.botName);
+assert.equal(global.botname, settings.botName);
+assert.match(settings.newsletterJid, /@newsletter$/);
+const ping = require('../plugins/ping');
+assert.equal(typeof ping, 'function');
+const help = require('../plugins/help');
+assert.equal(typeof help, 'function');
+console.log('Smoke test: settings, branding globals, newsletter JID, core command exports passed');

@@ -1,0 +1,10 @@
+{
+  "legacy_command_entries": 223,
+  "adeel_command_entries": 111,
+  "unique_command_names_and_aliases": 487,
+  "mongo_dependency": false,
+  "menu_style": "NAVEED TUCH MERGED STYLE",
+  "runtime_base": "𝐍𝐀𝐕𝐄𝐄𝐃 𝐓𝐔𝐂𝐇 👑",
+  "storage": "local JSON",
+  "notes": "Legacy native command switch is preserved; Legacy featureBridge and lazy Adeel plugin bridge handle additional commands."
+}

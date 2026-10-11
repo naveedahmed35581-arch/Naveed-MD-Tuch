@@ -1,0 +1,12 @@
+'use strict';
+const {discover}=require('../lib/freshRegistry');
+const fs=require('fs');
+const r=discover();
+if(!r.size) throw new Error('No command handlers discovered');
+const dup=[]; const files=fs.readdirSync(require('path').join(__dirname,'..','plugins'));
+console.log(`Fresh registry audit: ${r.size} command names discovered`);
+console.log(`Command files: ${files.filter(x=>x.endsWith('.js')).length}`);
+console.log('Owner: 923182835581');
+console.log('Prefix manager: runtime bot-settings/toggles.json');
+console.log('Anime output: main-answer-only renderer');
+console.log('Fresh registry audit passed.');

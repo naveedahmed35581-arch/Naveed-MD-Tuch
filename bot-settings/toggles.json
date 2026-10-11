@@ -1,0 +1,45 @@
+{
+  "_help": "All on/off settings of the bot live here. true = on, false = off. Edit and save, no restart needed.",
+  "mode": {
+    "isPublic": true,
+    "messageCount": {}
+  },
+  "prefix": {
+    "prefix": "."
+  },
+  "autoread": {
+    "enabled": false
+  },
+  "autotyping": {
+    "enabled": false
+  },
+  "autostatus": {
+    "enabled": false,
+    "reactOn": false
+  },
+  "antidelete": {
+    "enabled": false
+  },
+  "anticall": {
+    "enabled": false
+  },
+  "pmblocker": {
+    "enabled": false,
+    "message": "⚠️ Direct messages are blocked!\nYou cannot DM this bot. Please contact the owner in group chats only."
+  },
+  "groups": {
+    "users": [],
+    "groups": [],
+    "antilink": {},
+    "antibadword": {},
+    "warnings": {},
+    "sudo": [],
+    "welcome": {},
+    "goodbye": {},
+    "chatbot": {},
+    "autoReaction": false,
+    "antitag": {}
+  },
+  "protection": {},
+  "features": {}
+}

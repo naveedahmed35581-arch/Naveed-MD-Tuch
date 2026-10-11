@@ -1,0 +1,2801 @@
+{
+  "legacy": [
+    {
+      "name": "help",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "menu",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ping",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "alive",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tts",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "owner",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "joke",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "quote",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "fact",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "weather",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "news",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "attp",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "lyrics",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "8ball",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "groupinfo",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "staff",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "admins",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "vv",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "trt",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ss",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "jid",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "url",
+      "aliases": [],
+      "category": "Available Commands: ╔═══════════════════╗ General Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "mode",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "clearsession",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "antidelete",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "cleartmp",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "update",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "settings",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "setpp",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "autoreact",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "autostatus",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "autotyping",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "autoread",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "anticall",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "pmblocker",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "setmention",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "mention",
+      "aliases": [],
+      "category": "Admin Commands: ║ ➤ .ban @user ║ ➤ .promote @user ║ ➤ .demote @user ║ ➤ .mute <minutes> ║ ➤ .unmute ║ ➤ .delete or .del ║ ➤ .kick @user ║ ➤ .warnings @user ║ ➤ .warn @user ║ ➤ .antilink ║ ➤ .antibadword ║ ➤ .clear ║ ➤ .tag <message> ║ ➤ .tagall ║ ➤ .tagnotadmin ║ ➤ .hidetag <message> ║ ➤ .chatbot ║ ➤ .resetlink ║ ➤ .antitag <on/off> ║ ➤ .welcome <on/off> ║ ➤ .goodbye <on/off> ║ ➤ .setgdesc <description> ║ ➤ .setgname <new name> ║ ➤ .setgpp (reply to image) ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Owner Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "pies",
+      "aliases": [],
+      "category": "Image/Sticker Commands: ║ ➤ .blur <image> ║ ➤ .simage <reply to sticker> ║ ➤ .sticker <reply to image> ║ ➤ .removebg ║ ➤ .remini ║ ➤ .crop <reply to image> ║ ➤ .tgsticker <Link> ║ ➤ .meme ║ ➤ .take <packname> ║ ➤ .emojimix <emj1>+<emj2> ║ ➤ .igs <insta link> ║ ➤ .igsc <insta link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Pies Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "china",
+      "aliases": [],
+      "category": "Image/Sticker Commands: ║ ➤ .blur <image> ║ ➤ .simage <reply to sticker> ║ ➤ .sticker <reply to image> ║ ➤ .removebg ║ ➤ .remini ║ ➤ .crop <reply to image> ║ ➤ .tgsticker <Link> ║ ➤ .meme ║ ➤ .take <packname> ║ ➤ .emojimix <emj1>+<emj2> ║ ➤ .igs <insta link> ║ ➤ .igsc <insta link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Pies Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "indonesia",
+      "aliases": [],
+      "category": "Image/Sticker Commands: ║ ➤ .blur <image> ║ ➤ .simage <reply to sticker> ║ ➤ .sticker <reply to image> ║ ➤ .removebg ║ ➤ .remini ║ ➤ .crop <reply to image> ║ ➤ .tgsticker <Link> ║ ➤ .meme ║ ➤ .take <packname> ║ ➤ .emojimix <emj1>+<emj2> ║ ➤ .igs <insta link> ║ ➤ .igsc <insta link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Pies Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "japan",
+      "aliases": [],
+      "category": "Image/Sticker Commands: ║ ➤ .blur <image> ║ ➤ .simage <reply to sticker> ║ ➤ .sticker <reply to image> ║ ➤ .removebg ║ ➤ .remini ║ ➤ .crop <reply to image> ║ ➤ .tgsticker <Link> ║ ➤ .meme ║ ➤ .take <packname> ║ ➤ .emojimix <emj1>+<emj2> ║ ➤ .igs <insta link> ║ ➤ .igsc <insta link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Pies Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "korea",
+      "aliases": [],
+      "category": "Image/Sticker Commands: ║ ➤ .blur <image> ║ ➤ .simage <reply to sticker> ║ ➤ .sticker <reply to image> ║ ➤ .removebg ║ ➤ .remini ║ ➤ .crop <reply to image> ║ ➤ .tgsticker <Link> ║ ➤ .meme ║ ➤ .take <packname> ║ ➤ .emojimix <emj1>+<emj2> ║ ➤ .igs <insta link> ║ ➤ .igsc <insta link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Pies Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "hijab",
+      "aliases": [],
+      "category": "Image/Sticker Commands: ║ ➤ .blur <image> ║ ➤ .simage <reply to sticker> ║ ➤ .sticker <reply to image> ║ ➤ .removebg ║ ➤ .remini ║ ➤ .crop <reply to image> ║ ➤ .tgsticker <Link> ║ ➤ .meme ║ ➤ .take <packname> ║ ➤ .emojimix <emj1>+<emj2> ║ ➤ .igs <insta link> ║ ➤ .igsc <insta link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Pies Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "gpt",
+      "aliases": [],
+      "category": "Game Commands: ║ ➤ .tictactoe @user ║ ➤ .hangman ║ ➤ .guess <letter> ║ ➤ .trivia ║ ➤ .answer <answer> ║ ➤ .truth ║ ➤ .dare ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ AI Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "gemini",
+      "aliases": [],
+      "category": "Game Commands: ║ ➤ .tictactoe @user ║ ➤ .hangman ║ ➤ .guess <letter> ║ ➤ .trivia ║ ➤ .answer <answer> ║ ➤ .truth ║ ➤ .dare ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ AI Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "imagine",
+      "aliases": [],
+      "category": "Game Commands: ║ ➤ .tictactoe @user ║ ➤ .hangman ║ ➤ .guess <letter> ║ ➤ .trivia ║ ➤ .answer <answer> ║ ➤ .truth ║ ➤ .dare ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ AI Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "flux",
+      "aliases": [],
+      "category": "Game Commands: ║ ➤ .tictactoe @user ║ ➤ .hangman ║ ➤ .guess <letter> ║ ➤ .trivia ║ ➤ .answer <answer> ║ ➤ .truth ║ ➤ .dare ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ AI Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "sora",
+      "aliases": [],
+      "category": "Game Commands: ║ ➤ .tictactoe @user ║ ➤ .hangman ║ ➤ .guess <letter> ║ ➤ .trivia ║ ➤ .answer <answer> ║ ➤ .truth ║ ➤ .dare ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ AI Commands",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "metallic",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ice",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "snow",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "impressive",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "matrix",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "light",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "neon",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "devil",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "purple",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "thunder",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "leaves",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "1917",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "arena",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "hacker",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "sand",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "blackpink",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "glitch",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "fire",
+      "aliases": [],
+      "category": "Fun Commands: ║ ➤ .compliment @user ║ ➤ .insult @user ║ ➤ .flirt ║ ➤ .shayari ║ ➤ .goodnight ║ ➤ .roseday ║ ➤ .character @user ║ ➤ .wasted @user ║ ➤ .ship @user ║ ➤ .simp @user ║ ➤ .stupid @user [text] ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ Textmaker",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "heart",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "horny",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "circle",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "lgbt",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "lolice",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "its-so-stupid",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "namecard",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "oogway",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tweet",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ytcomment",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "comrade",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "gay",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "glass",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "jail",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "passed",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "triggered",
+      "aliases": [],
+      "category": "📥 Downloader: ║ ➤ .play <song_name> ║ ➤ .song <song_name> ║ ➤ .spotify <query> ║ ➤ .instagram <link> ║ ➤ .facebook <link> ║ ➤ .tiktok <link> ║ ➤ .video <song name> ║ ➤ .ytmp4 <Link> ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯ ╔═══════════════════╗ MISC",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "nom",
+      "aliases": [],
+      "category": "ANIME",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "poke",
+      "aliases": [],
+      "category": "ANIME",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "cry",
+      "aliases": [],
+      "category": "ANIME",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "kiss",
+      "aliases": [],
+      "category": "ANIME",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "pat",
+      "aliases": [],
+      "category": "ANIME",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "hug",
+      "aliases": [],
+      "category": "ANIME",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "wink",
+      "aliases": [],
+      "category": "ANIME",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "facepalm",
+      "aliases": [],
+      "category": "ANIME",
+      "source": "plugins/help.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "play",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/play.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "delete",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/delete.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "shayari",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/shayari.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ai",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/ai.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "compliment",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/compliment.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "stickertelegram",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/stickertelegram.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "warnings",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/warnings.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "stupid",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/stupid.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "trivia",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/trivia.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "dare",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/dare.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "character",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/character.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "anime",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/anime.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tagall",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/tagall.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "sudo",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/sudo.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "hidetag",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/hidetag.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "kick",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/kick.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "translate",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/translate.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "spotify",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/spotify.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "clear",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/clear.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "img-blur",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/img-blur.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "antitag",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/antitag.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tagnotadmin",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/tagnotadmin.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "welcome",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/welcome.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "simage",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/simage.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "removebg",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/removebg.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "flirt",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/flirt.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "gif",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/gif.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "groupmanage",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/groupmanage.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "remini",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/remini.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "antilink",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/antilink.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "roseday",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/roseday.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "sticker",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/sticker.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "wasted",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/wasted.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "warn",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/warn.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "demote",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/demote.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "truth",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/truth.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tiktok",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/tiktok.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "stickercrop",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/stickercrop.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "unban",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/unban.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "facebook",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/facebook.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "viewonce",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/viewonce.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "misc",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/misc.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "goodnight",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/goodnight.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "meme",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/meme.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "sticker-alt",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/sticker-alt.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "simp",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/simp.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "resetlink",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/resetlink.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "eightball",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/eightball.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "goodbye",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/goodbye.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ban",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/ban.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ship",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/ship.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tictactoe",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/tictactoe.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "pair",
+      "aliases": [],
+      "category": "SESSION",
+      "source": "plugins/pair.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "topmembers",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/topmembers.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "unmute",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/unmute.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "take",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/take.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "chatbot",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/chatbot.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tag",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/tag.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "mute",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/mute.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "igs",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/igs.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "song",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/song.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "textmaker",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/textmaker.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "instagram",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/instagram.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "github",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/github.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "hangman",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/hangman.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "antibadword",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/antibadword.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "video",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/video.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "insult",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/insult.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "emojimix",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/emojimix.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "promote",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "plugins/promote.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "setgdesc",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "setgname",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "setgpp",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "areact",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "bot",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "list",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "del",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ttt",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "move",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "guess",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "answer",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "itssostupid",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "iss",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "blur",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "git",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "sc",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "script",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "repo",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "steal",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "waste",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "infogp",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "infogrupo",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "revoke",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "anularlink",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "listadmin",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tourl",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "emix",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tg",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tgsticker",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "telesticker",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "clearsesi",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "surrender",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "insta",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ig",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "igsc",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "fb",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "music",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "mp3",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ytmp3",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ytmp4",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tt",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "ssweb",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "screenshot",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "autoreaction",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "lovenight",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "gn",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "shayri",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "dalle",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "simpcard",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "tonikawa",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "oogway2",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "animu",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "face-palm",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "animuquote",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "loli",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "crop",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "india",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "malaysia",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "thailand",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "rmbg",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "nobg",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "enhance",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "upscale",
+      "aliases": [],
+      "category": "Legacy",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newai",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newaichat",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newreason",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newaivision",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newaisearch",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newaiimage",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newimgedit",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newaitts",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newaivoice",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newstt",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newaimodels",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newimgmodels",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newaifeed",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newimgfeed",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "newfunction",
+      "aliases": [],
+      "category": "AI Commands — NEW POLLINATIONS",
+      "source": "plugins/pollinations.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "sessions",
+      "aliases": [],
+      "category": "SESSION",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "pin",
+      "aliases": [],
+      "category": "DOWNLOADER",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "qrcode",
+      "aliases": [],
+      "category": "TOOLS",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "qr",
+      "aliases": [],
+      "category": "TOOLS",
+      "source": "main.js",
+      "kind": "legacy"
+    },
+    {
+      "name": "delsession",
+      "aliases": [],
+      "category": "SESSION",
+      "source": "main.js",
+      "kind": "legacy"
+    }
+  ],
+  "adeel": [
+    {
+      "name": "terabox",
+      "aliases": [
+        "tera",
+        "tbx",
+        "terabox2"
+      ],
+      "category": "download",
+      "source": "terabox.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "cjid",
+      "aliases": [
+        "channeljid",
+        "jidchannel",
+        "getjid",
+        "newsletterjid",
+        "chjid"
+      ],
+      "category": "utility",
+      "source": "channel-jid.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "broadcast",
+      "aliases": [],
+      "category": "group",
+      "source": "tool-broadcast.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "sticker",
+      "aliases": [
+        "s",
+        "take",
+        "rename",
+        "stake",
+        "vsticker",
+        "gsticker",
+        "g2s",
+        "gs",
+        "v2s",
+        "vs"
+      ],
+      "category": "tools",
+      "source": "sticker-maker.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "attp",
+      "aliases": [
+        "stimg",
+        "stoimg",
+        "stickertoimg"
+      ],
+      "category": "tools",
+      "source": "sticker-maker.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "stickertophoto",
+      "aliases": [
+        "stimg",
+        "stoimg",
+        "stickertoimg"
+      ],
+      "category": "tools",
+      "source": "sticker-maker.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "pinvideo",
+      "aliases": [
+        "pinvid",
+        "pinmp4",
+        "pinterestvid"
+      ],
+      "category": "download",
+      "source": "pinterest-video.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "Pinterest",
+      "aliases": [
+        "pin",
+        "pinterestdl",
+        "pindl",
+        "pinphoto",
+        "pinimg",
+        "pinpic",
+        "pinterestphoto"
+      ],
+      "category": "download",
+      "source": "pinterest-img.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "tiktok2",
+      "aliases": [
+        "tt2",
+        "ttdl2"
+      ],
+      "category": "download",
+      "source": "dl-tiktok2.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "add",
+      "aliases": [
+        "addition",
+        "invite"
+      ],
+      "category": "group",
+      "source": "group-add.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "ping",
+      "aliases": [
+        "speed",
+        "pong"
+      ],
+      "category": "main",
+      "source": "main-ping.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "ping2",
+      "aliases": [],
+      "category": "main",
+      "source": "main-ping.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "deep",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "smooth",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "fat",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "tupai",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "blown",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "radio",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "robot",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "chipmunk",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "nightcore",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "earrape",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "bass",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "reverse",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "slow",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "fast",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "baby",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "demon",
+      "aliases": [],
+      "category": "audio",
+      "source": "audio-editor.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "megadl",
+      "aliases": [
+        "mega",
+        "meganz"
+      ],
+      "category": "download",
+      "source": "dl-mega.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "invite",
+      "aliases": [
+        "aja",
+        "glink",
+        "invitelink"
+      ],
+      "category": "group",
+      "source": "group-invite.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "close",
+      "aliases": [
+        "groupclose",
+        "mute"
+      ],
+      "category": "group",
+      "source": "group-mute-unmute.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "open",
+      "aliases": [
+        "groupopen",
+        "unmute"
+      ],
+      "category": "group",
+      "source": "group-mute-unmute.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "mediafire",
+      "aliases": [
+        "mfire",
+        "mfdownload"
+      ],
+      "category": "download",
+      "source": "dl-mediafire.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "tiktoksearch",
+      "aliases": [
+        "tiktoks",
+        "tiks"
+      ],
+      "category": "download",
+      "source": "dl-tiktok-search.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "sim",
+      "aliases": [
+        "simdata",
+        "database",
+        "simdetail",
+        "detailsim"
+      ],
+      "category": "tools",
+      "source": "sim.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "uptime",
+      "aliases": [
+        "runtime",
+        "up"
+      ],
+      "category": "utility",
+      "source": "check-uptime.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "toimg",
+      "aliases": [
+        "toimage",
+        "tophoto"
+      ],
+      "category": "media",
+      "source": "tool-converter.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "tovideo",
+      "aliases": [
+        "tovid",
+        "tomp4"
+      ],
+      "category": "media",
+      "source": "tool-converter.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "tomp3",
+      "aliases": [],
+      "category": "audio",
+      "source": "tool-converter.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "toptt",
+      "aliases": [
+        "tov",
+        "tovoice"
+      ],
+      "category": "audio",
+      "source": "tool-converter.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "voice",
+      "aliases": [
+        "tov",
+        "tovoice"
+      ],
+      "category": "audio",
+      "source": "tool-converter.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "drama",
+      "aliases": [
+        "darama"
+      ],
+      "category": "download",
+      "source": "ytdl-drama.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "welcome",
+      "aliases": [
+        "welcome"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "goodbye",
+      "aliases": [
+        "goodbye"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "setwelcome",
+      "aliases": [
+        "setwelcome"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "setgoodbye",
+      "aliases": [
+        "setgoodbye"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "ban",
+      "aliases": [
+        "ban"
+      ],
+      "category": "moderation",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "unban",
+      "aliases": [
+        "unban"
+      ],
+      "category": "moderation",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "banlist",
+      "aliases": [
+        "banlist",
+        "banned"
+      ],
+      "category": "moderation",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "sudo",
+      "aliases": [
+        "sudo"
+      ],
+      "category": "moderation",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "delsudo",
+      "aliases": [
+        "delsudo",
+        "removesudo"
+      ],
+      "category": "moderation",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "listsudo",
+      "aliases": [
+        "listsudo",
+        "sudoers"
+      ],
+      "category": "moderation",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "antiedit",
+      "aliases": [
+        "antiedit"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "editpath",
+      "aliases": [
+        "editpath"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "autoread",
+      "aliases": [
+        "autoread",
+        "readmsg",
+        "autoreadmsg"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "antilink",
+      "aliases": [
+        "linkblock"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "antilinkaction",
+      "aliases": [
+        "linkaction",
+        "setlinkaction"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "antidelete",
+      "aliases": [
+        "antidel",
+        "delblock"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "recording",
+      "aliases": [
+        "autorecording"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "statusview",
+      "aliases": [
+        "autoview"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "autoreact",
+      "aliases": [
+        "autoreaction",
+        "reactauto"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "anticall",
+      "aliases": [
+        "antcall",
+        "callblock"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "anticallmsg",
+      "aliases": [
+        "callmsg",
+        "rejectmsg"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "adminaction",
+      "aliases": [
+        "adminnotify"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "autotyping",
+      "aliases": [
+        "typing"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "online",
+      "aliases": [
+        "alwaysonline",
+        "alwayson"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "mode",
+      "aliases": [
+        "mod"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "prefix",
+      "aliases": [
+        "name"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "botname",
+      "aliases": [
+        "name"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "ownername",
+      "aliases": [
+        "owner"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "ownernumber",
+      "aliases": [
+        "ownernum",
+        "ownerphone"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "description",
+      "aliases": [
+        "desc",
+        "about"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "botdp",
+      "aliases": [
+        "botimage",
+        "botpic",
+        "botphoto"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "stickername",
+      "aliases": [
+        "stickertext",
+        "stname"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "delpath",
+      "aliases": [
+        "deletepath",
+        "antideletepath"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "reactemojis",
+      "aliases": [
+        "reacts",
+        "reactset"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "owneremojis",
+      "aliases": [
+        "owneremojiset",
+        "ownerreacts"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "heartreact",
+      "aliases": [
+        "heartreaction"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "customreact",
+      "aliases": [
+        "customreaction"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "customemojis",
+      "aliases": [
+        "customemoji",
+        "emojiscustom"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "statusreact",
+      "aliases": [
+        "autostatusreact"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "statusreply",
+      "aliases": [
+        "autostatusreply"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "statusreplymsg",
+      "aliases": [
+        "statusreplymessage",
+        "statmsg"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "settings",
+      "aliases": [
+        "setting",
+        "env",
+        "config"
+      ],
+      "category": "settings",
+      "source": "main-settings.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "kick",
+      "aliases": [
+        "k",
+        "remove",
+        "nital"
+      ],
+      "category": "group",
+      "source": "group-setting.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "promote",
+      "aliases": [
+        "p",
+        "giveadmin",
+        "permote",
+        "admin"
+      ],
+      "category": "group",
+      "source": "group-setting.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "demote",
+      "aliases": [
+        "d",
+        "dismiss",
+        "removeadmin"
+      ],
+      "category": "group",
+      "source": "group-setting.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "kickall",
+      "aliases": [
+        "byeall",
+        "end",
+        "endgc",
+        "nuke"
+      ],
+      "category": "group",
+      "source": "group-setting.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "out",
+      "aliases": [
+        "🚪",
+        "🦶"
+      ],
+      "category": "group",
+      "source": "group-out.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "owner",
+      "aliases": [
+        "creator",
+        "developer"
+      ],
+      "category": "main",
+      "source": "main-owner.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "gcpp",
+      "aliases": [
+        "gpp",
+        "fullppgc",
+        "gcdp",
+        "groupdp"
+      ],
+      "category": "group",
+      "source": "group-stpp.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "video",
+      "aliases": [
+        "mp4"
+      ],
+      "category": "download",
+      "source": "ytdl-video.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "play",
+      "aliases": [
+        "song",
+        "mp3"
+      ],
+      "category": "download",
+      "source": "ytdl-play.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "leave",
+      "aliases": [
+        "left",
+        "leftgc",
+        "leavegc"
+      ],
+      "category": "owner",
+      "source": "group-leve.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "hidetag",
+      "aliases": [
+        "tag",
+        "h"
+      ],
+      "category": "group",
+      "source": "group-tag.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "accept",
+      "aliases": [
+        "acceptall"
+      ],
+      "category": "group",
+      "source": "group-accept-reject.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "rejectall",
+      "aliases": [
+        "reject"
+      ],
+      "category": "group",
+      "source": "group-accept-reject.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "igdl",
+      "aliases": [
+        "instagram",
+        "insta",
+        "ig"
+      ],
+      "category": "download",
+      "source": "dl-insta.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "ig7",
+      "aliases": [
+        "insta8",
+        "Instagram9"
+      ],
+      "category": "download",
+      "source": "download.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "twitter",
+      "aliases": [
+        "tweet",
+        "twdl"
+      ],
+      "category": "download",
+      "source": "download.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "apk",
+      "aliases": [],
+      "category": "download",
+      "source": "download.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "gdrive",
+      "aliases": [],
+      "category": "download",
+      "source": "download.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "capcut",
+      "aliases": [
+        "capcutdl",
+        "capcuttemplate",
+        "capcutvideo"
+      ],
+      "category": "download",
+      "source": "capcut.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "vv2",
+      "aliases": [
+        "nice",
+        "oh",
+        "good",
+        "cute",
+        "🌝",
+        "💋",
+        "👍",
+        "🌚",
+        "😘",
+        "❤",
+        "😍",
+        "🔥",
+        "👀",
+        "ok",
+        "wow",
+        "super",
+        "💫",
+        "🥰"
+      ],
+      "category": "owner",
+      "source": "anti-once.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "vv",
+      "aliases": [
+        "viewonce",
+        "retrive"
+      ],
+      "category": "owner",
+      "source": "anti-vv.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "id",
+      "aliases": [
+        "chatid",
+        "jid",
+        "gjid",
+        "channelid",
+        "newsletter",
+        "cid"
+      ],
+      "category": "utility",
+      "source": "tool-jids.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "getlid",
+      "aliases": [
+        "lidonly",
+        "lid",
+        "mylid"
+      ],
+      "category": "utility",
+      "source": "tool-jids.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "fb",
+      "aliases": [
+        "facebook",
+        "fbvideo",
+        "fb2",
+        "facebook2",
+        "fbvideo2"
+      ],
+      "category": "download",
+      "source": "dl-fb.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "dismissall",
+      "aliases": [
+        "disall"
+      ],
+      "category": "group",
+      "source": "group-dismiss.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "tagadmins",
+      "aliases": [
+        "admin",
+        "tagadmin",
+        "gc_tagadmins"
+      ],
+      "category": "group",
+      "source": "group-tag-admin.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "tiktok",
+      "aliases": [
+        "tt",
+        "tiktokdl",
+        "ttdl"
+      ],
+      "category": "download",
+      "source": "dl-tiktok.js",
+      "kind": "adeel"
+    },
+    {
+      "name": "toggle",
+      "aliases": [
+        "toggles",
+        "switches",
+        "onoff"
+      ],
+      "category": "owner",
+      "source": "toggle.js",
+      "kind": "adeel"
+    }
+  ]
+}
