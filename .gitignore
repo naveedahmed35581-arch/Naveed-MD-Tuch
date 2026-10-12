@@ -1,6 +1,0 @@
-node_modules
-session
-temp
-tmp
-.env
-*.log
